@@ -1,0 +1,38 @@
+{
+  "employee": [
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "Ricky kii",
+      "email": "rhhp@gmail.com",
+      "phone": "988lll090",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "ghjkjk",
+      "email": "dfghh@gmail.com",
+      "phone": "0211255888",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "rtztz",
+      "email": "ddstjhrzeje@cc.com",
+      "phone": "2558648789789",
+      "active": true,
+      "id": 6
+    }
+  ]
+}
